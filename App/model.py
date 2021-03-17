@@ -115,7 +115,7 @@ def newCatalog():
     return catalog
 
 
-# Funciones para creacion de datos
+# Funciones para creacion de datos  
 
 def newAuthor(name):
     """

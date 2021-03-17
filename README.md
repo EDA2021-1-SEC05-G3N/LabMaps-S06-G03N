@@ -1,7 +1,7 @@
 # ISIS1225 - Estructura de un proyecto
 
-* María José Cely Ortiz - 202011803
-* Eduardo José Herrera Alba - 201912865
+* María José Cely Ortiz - 202011803 - m.cely@uniandes.edu.co    
+* Eduardo José Herrera Alba - 201912865 - ej.herreraa@uniandes.edu.co
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
